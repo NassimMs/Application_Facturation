@@ -4,8 +4,9 @@ Activité Pratique du Contrôle : Créer une application basée sur une architec
 # Objectif Status:  
 Créer une application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.
 Travail à faire :
-1.Créer le micro-service customer-service qui permet de gérer les client    :  Done ✔️
-2.Créer le micro-service inventory-service qui permet de gérer les produits : Done ✔️
+
+1. Créer le micro-service customer-service qui permet de gérer les client    :  Done ✔️ 
+2. Créer le micro-service inventory-service qui permet de gérer les produits : Done ✔️
 3. Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage : Done ✔️
 4. Créer l'annuaire Eureka Discrovery Service : Done ✔️
 5. Faire une configuration dynamique des routes de la gateway : Done ✔️
